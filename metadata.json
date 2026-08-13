@@ -1,0 +1,6 @@
+{
+  "name": "Portal de Acesso",
+  "description": "Portal de consulta de dados de acesso baseado em relatórios PDF com validação e área administrativa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
